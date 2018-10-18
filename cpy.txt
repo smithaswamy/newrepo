@@ -1,3 +1,2 @@
 this is text file
-i am adding new line to this file
-any change in this file creates the log report
+new text line
